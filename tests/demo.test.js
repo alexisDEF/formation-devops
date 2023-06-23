@@ -17,7 +17,7 @@ describe("Checking if the user is created correctly", function () {
                             "tom"
                         );
                 tom.name.should.be.equal(
-                    "tom"
+                    "tommy"
                 );
             });
     });
